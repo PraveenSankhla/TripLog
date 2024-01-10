@@ -1,0 +1,35 @@
+﻿@{
+    ViewData["Title"] = "My Trip Log";
+}
+@using TripsLog.Models;
+
+
+<div class="col-12">
+    <a class="nav-link text-primary fw-bolder" asp-area="" asp-controller="Home" asp-action="AddTrip">Add Trip</a>
+</div>
+
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th scope="col">Destination</th>
+            <th scope="col">Start Date</th>
+            <th scope="col">End Date</th>
+            <th scope="col">Accommodations</th>
+            <th scope="col">Things To Do</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Destination</td>
+                <td>@item.StartDate.ToString("dd/MM/yyyy")</td>
+                <td>@item.EndDate.ToString("dd/MM/yyyy")</td>
+                <td>@item.Accommodations</td>
+                <td>@item.todo</td>
+            </tr>
+        }
+       
+    </tbody>
+</table>

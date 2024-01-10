@@ -1,0 +1,24 @@
+﻿@using TripsLog.Models;
+@model TripLog
+@{
+    ViewData["Title"] = "Add Trip - Page-2";
+}
+
+<div class="container">
+    <form asp-action="AddTripThree">
+        <div class="form-group mt-2">
+            <label for="Phonenumber">Phone Number</label>
+            @Html.TextBoxFor(model => model.PhoneNumber, new {@class = "form-control"})
+        </div>
+
+        <div class="form-group mt-2">
+            <label for="Email">Email address</label>
+            @Html.TextBoxFor(model => model.Email, new {@class = "form-control"})
+        </div>
+
+        <div class="container mt-3">
+            <button type="submit" class="btn btn-secondary" asp-controller="Home" asp-action="AddTripThree">Next</button>
+            <button type="submit" class="btn btn-light border-1 border-dark" asp-area="" asp-controller="Home" asp-action="Index">Cancel</button>
+        </div>
+    </form>
+</div>

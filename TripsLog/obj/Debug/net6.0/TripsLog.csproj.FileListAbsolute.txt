@@ -1,0 +1,1125 @@
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.AssemblyInfo.cs
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.staticwebassets.runtime.json
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.exe
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.deps.json
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.runtimeconfig.json
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.pdb
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\MessagePack.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.TripsLog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.build.TripsLog.props
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TripsLog.props
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TripsLog.props
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\bundle\TripsLog.styles.css
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\projectbundle\TripsLog.bundle.scp.css
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.CopyComplete
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\refint\TripsLog.dll
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.pdb
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.genruntimeconfig.cache
+C:\Users\hp\Desktop\TripsLog\TripsLog\obj\Debug\net6.0\ref\TripsLog.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\appsettings.json
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.staticwebassets.runtime.json
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.exe
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.deps.json
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.runtimeconfig.json
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.pdb
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Humanizer.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\MessagePack.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.AssemblyReference.cache
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.AssemblyInfoInputs.cache
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.AssemblyInfo.cs
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.CoreCompileInputs.cache
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.RazorAssemblyInfo.cache
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.RazorAssemblyInfo.cs
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.TripsLog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.build.TripsLog.props
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TripsLog.props
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TripsLog.props
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\bundle\TripsLog.styles.css
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\projectbundle\TripsLog.bundle.scp.css
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.CopyComplete
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\refint\TripsLog.dll
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.pdb
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.genruntimeconfig.cache
+C:\Users\E-connect\Downloads\TripsLog\TripsLog\TripsLog\obj\Debug\net6.0\ref\TripsLog.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\appsettings.Development.json
+E:\TripsLog\TripsLog\bin\Debug\net6.0\appsettings.json
+E:\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.staticwebassets.runtime.json
+E:\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.exe
+E:\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.deps.json
+E:\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.runtimeconfig.json
+E:\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.pdb
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Humanizer.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\MessagePack.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Build.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Common.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\af\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ar\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\az\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\bg\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\cs\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\da\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\de\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\el\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\es\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fa\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fr\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\he\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\hr\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\hu\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\hy\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\id\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\is\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\it\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ja\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ku\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\lv\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\mt\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\nb\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\nl\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pl\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pt\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ro\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ru\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\sk\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\sl\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\sr\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\sv\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\tr\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\uk\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\vi\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.AssemblyReference.cache
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.GeneratedMSBuildEditorConfig.editorconfig
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.AssemblyInfoInputs.cache
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.AssemblyInfo.cs
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.CoreCompileInputs.cache
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.MvcApplicationPartsAssemblyInfo.cache
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.RazorAssemblyInfo.cache
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.RazorAssemblyInfo.cs
+E:\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.TripsLog.Microsoft.AspNetCore.StaticWebAssets.props
+E:\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.build.TripsLog.props
+E:\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TripsLog.props
+E:\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TripsLog.props
+E:\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.pack.json
+E:\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.build.json
+E:\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.development.json
+E:\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\bundle\TripsLog.styles.css
+E:\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\projectbundle\TripsLog.bundle.scp.css
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.CopyComplete
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.dll
+E:\TripsLog\TripsLog\obj\Debug\net6.0\refint\TripsLog.dll
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.pdb
+E:\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.genruntimeconfig.cache
+E:\TripsLog\TripsLog\obj\Debug\net6.0\ref\TripsLog.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.staticwebassets.runtime.json
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.exe
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.deps.json
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.runtimeconfig.json
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.pdb
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\MessagePack.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.AssemblyInfo.cs
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.RazorAssemblyInfo.cache
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.RazorAssemblyInfo.cs
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.TripsLog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.build.TripsLog.props
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TripsLog.props
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TripsLog.props
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\bundle\TripsLog.styles.css
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\projectbundle\TripsLog.bundle.scp.css
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.CopyComplete
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\refint\TripsLog.dll
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.pdb
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.genruntimeconfig.cache
+C:\Users\hp\Desktop\New folder\TripsLog\TripsLog\obj\Debug\net6.0\ref\TripsLog.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\appsettings.Development.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\appsettings.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.staticwebassets.runtime.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.exe
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.deps.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.runtimeconfig.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\TripsLog.pdb
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Humanizer.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\MessagePack.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Build.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Common.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.AssemblyReference.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.AssemblyInfoInputs.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.AssemblyInfo.cs
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.CoreCompileInputs.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.MvcApplicationPartsAssemblyInfo.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.RazorAssemblyInfo.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.RazorAssemblyInfo.cs
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.build.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.development.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.TripsLog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.build.TripsLog.props
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TripsLog.props
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TripsLog.props
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\staticwebassets.pack.json
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\bundle\TripsLog.styles.css
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\scopedcss\projectbundle\TripsLog.bundle.scp.css
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.csproj.CopyComplete
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\refint\TripsLog.dll
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.pdb
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\TripsLog.genruntimeconfig.cache
+D:\01. Projects\Freelancing\Project-03 FAQ and Trip Log\TripsLog\TripsLog\obj\Debug\net6.0\ref\TripsLog.dll
